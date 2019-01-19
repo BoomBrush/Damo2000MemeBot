@@ -1,3 +1,8 @@
+
+# Software written by Scott Howie
+# Published on 20 Janurary 2019
+# Created some time before July 2018
+
 from urllib.request import urlopen
 from urllib import parse
 from time import sleep
